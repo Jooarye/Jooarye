@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jooarye&label=Profile%20views&color=0e75b6&style=flat" alt="jooarye" /> </p>
 
-- 🔭 I’m currently working on **langj**
+- 🔭 I’m currently working on **[langj](https://github.com/Jooarye/langj)**
 
 - 🌱 I’m currently learning **about Compilers**
 
